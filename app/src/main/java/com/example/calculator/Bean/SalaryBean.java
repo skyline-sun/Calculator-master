@@ -1,5 +1,5 @@
 package com.example.calculator.Bean;
-
+//djgay是hape
 public class SalaryBean {
 
 	private int salary;
