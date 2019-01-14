@@ -19,7 +19,7 @@ import org.angmarch.views.NiceSpinner;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//分支测试
 public class AvgCapPlus_Fragment extends Fragment {
     private EditText Mortgage, Time, Sum, Interest, MonSum;
     private NiceSpinner Pattern, Rate;
